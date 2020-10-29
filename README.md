@@ -1,1 +1,1 @@
-# CrossSite Django User Log In
+# Cross Site Django User Login/Authorization
